@@ -8,6 +8,9 @@ The models that i've taken into consideration for this project are
 - Coupled Input forget gate LSTM
 - Peephole LSTM
 
+Here's the link to the data set (I couldn't attach files for more then 25MB in here so yea)
+https://www.kaggle.com/datasets/thedevastator/imdb-large-movie-review-dataset-binary-sentiment
+
 The whole project is divided into 5 phases 
 First the data processing is done, the data that i've taken is the binary ratings of imdb which I got from kaggle. 
 Next the models are coded.
